@@ -7,7 +7,7 @@
 | Memory       | 8 GB*2 DDR4 2666MHz SDRAM                                        | YES|
 | Storage      | M.2 NVMe PCIe 256GB SSD、2.5 5400rpm 1TB SSHD                    | YES|
 | IGPU         | Intel UHD Graphics 630 1536 MB                                   | YES|
-| DGPU         | Nvidia GeForce RTX 1060 (6 GB)                   		            | work for 10.13 down|
+| DGPU         | Nvidia GeForce RTX 1060 (6 GB)                   		            | work for 10.13|
 | Sound        | Realtek ALC294                                                   | YES|
 | Network      | Intel Wireless-AC 9560                                           | NO|
 | Bluetooth    | Bluetooth 5.0                                                    | YES|
