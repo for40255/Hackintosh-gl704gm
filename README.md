@@ -1,6 +1,6 @@
-# Asus ROG GL704GM Hackintosh macOS on Catalina
+# Asus ROG GL704GM Hackintosh macOS on Catalina supported 10.14~10.15
 # What works
-- Intel UHD Graphics 630
+- Intel UHD Graphics 630   
 - Bluetooth
 - All USB ports
 - Keyboard
