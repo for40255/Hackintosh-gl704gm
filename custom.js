@@ -1,1 +1,0 @@
-var Icon_url = "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/6e/74/b9/6e74b9e2-1d45-6017-76d1-eb733918c537/AppIcon-1x_U007emarketing-0-5-0-85-220.png/120x120.png"
